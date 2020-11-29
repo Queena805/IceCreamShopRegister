@@ -1,3 +1,3 @@
 # IceCreamShopRegister
 
-## Instructionf for IceCreamShopRegister
+## Instruction for IceCreamShopRegister
